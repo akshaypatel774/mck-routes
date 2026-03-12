@@ -1,0 +1,11 @@
+{
+  "name": "mck-routes",
+  "version": "1.0.0",
+  "description": "Static route optimizer dashboard built with Leaflet and Supabase authentication",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
